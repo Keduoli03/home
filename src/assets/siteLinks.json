@@ -5,6 +5,11 @@
     "link":  "https://www.blueke.top/"
   },
   {
+    "icon": "LaptopCode",
+    "name": "备份博客",
+    "link": "https://hexo.blueke.top/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link":  "https://alist.blueke.top/"
@@ -28,10 +33,6 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
+  
 ]
